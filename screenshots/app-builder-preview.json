@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The 120 Prompt OS | AI Prompts for South African Businesses | BuzzCraft",
+      "hasCanvas": false,
+      "bodyTextLen": 14663,
+      "bodyTextHash": "19a22117ee10c13f6601490ace8b37612251fe7006d4b05b05dcd8284975053e",
+      "bodyTextPrefix": "Skip to content What's Inside FOUND How It Works Who It's For FA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The 120 Prompt OS | AI Prompts for South African Businesses | BuzzCraft",
+      "hasCanvas": false,
+      "bodyTextLen": 14423,
+      "bodyTextHash": "6349c8b34eb26a961e1f58c7631ec86091104178db91a6c0cf1b0edc93c52296",
+      "bodyTextPrefix": "Skip to content BUZZCRAFT PRESENTS Stop asking AI random questio",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
