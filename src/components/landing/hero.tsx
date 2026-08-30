@@ -125,9 +125,9 @@ export function Hero() {
           >
             <img
               src="/brand/hero-lockup.jpg"
-              alt="BuzzCraft bee mascot standing beside the 120 Prompt OS hardcover, gold B glowing behind them"
-              width={1728}
-              height={1152}
+              alt="BuzzCraft bee mascot in a suit standing beside The 120 Prompt OS hardcover and a gold 3D B"
+              width={1568}
+              height={1003}
               fetchPriority="high"
               className="relative z-10 w-full rounded-xl"
             />

@@ -94,12 +94,12 @@ export function Found() {
 
       <div className="mt-16 grid items-center gap-10 lg:grid-cols-2">
         <img
-          src="/brand/bee-systems.png"
-          alt="BuzzCraft mascot at a strategy board: we build growth systems, not marketing noise"
-          width={900}
-          height={1100}
+          src="/brand/ebook-stand.jpg"
+          alt="BuzzCraft bee mascot presenting The 120 Prompt OS hardcover"
+          width={1122}
+          height={1402}
           loading="lazy"
-          className="mx-auto max-h-[28rem] w-full rounded-xl object-cover object-top shadow-[var(--shadow-gold)] lg:max-h-none"
+          className="mx-auto max-h-[28rem] w-full rounded-xl object-cover object-[center_20%] shadow-[var(--shadow-gold)] lg:max-h-[36rem]"
         />
         <div>
           <p className="font-display text-2xl font-semibold text-fg md:text-3xl">

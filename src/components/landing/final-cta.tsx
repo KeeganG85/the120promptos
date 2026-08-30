@@ -12,18 +12,18 @@ export function FinalCta() {
             "radial-gradient(ellipse 50% 60% at 20% 80%, color-mix(in oklab, var(--color-gold) 16%, transparent), transparent 70%)",
         }}
       />
-      <div className="relative mx-auto grid max-w-6xl items-end gap-8 lg:grid-cols-12">
-        <div className="flex justify-center lg:col-span-5">
+      <div className="relative mx-auto grid max-w-6xl items-center gap-8 lg:grid-cols-12">
+        <div className="lg:col-span-6">
           <img
-            src="/brand/bee-cutout.png"
-            alt="BuzzCraft bee mascot in a white shirt and glasses, standing with hands in pockets"
-            width={819}
-            height={1066}
+            src="/brand/bee-casual-lockup.jpg"
+            alt="BuzzCraft bee mascot in a white shirt and denim shorts standing beside The 120 Prompt OS hardcover"
+            width={1568}
+            height={1003}
             loading="lazy"
-            className="max-h-64 w-auto object-contain drop-shadow-[0_24px_40px_rgb(0_0_0_/_0.55)] sm:max-h-80 lg:max-h-[28rem]"
+            className="w-full rounded-xl"
           />
         </div>
-        <div className="pb-4 text-center lg:col-span-7 lg:pb-16 lg:text-left">
+        <div className="text-center lg:col-span-6 lg:text-left">
           <h2 className="font-display text-4xl font-semibold tracking-[-0.03em] text-fg md:text-6xl">
             Stop starting from a blank prompt.
           </h2>

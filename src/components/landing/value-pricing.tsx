@@ -11,9 +11,9 @@ export function ValueStack() {
         <div className="lg:col-span-5">
           <img
             src="/brand/ebook-open.jpg"
-            alt="The 120 Prompt OS hardcover open on a desk, gold-edged pages catching the light"
-            width={900}
-            height={1200}
+            alt="BuzzCraft bee reading The 120 Prompt OS, open to Purpose and Prompt pages"
+            width={1448}
+            height={1086}
             loading="lazy"
             className="mx-auto max-h-[26rem] w-full rounded-xl object-cover object-center"
           />
@@ -48,9 +48,9 @@ export function Pricing() {
       <div className="mx-auto grid max-w-3xl items-center gap-8 rounded-2xl bg-surface p-8 shadow-[var(--shadow-gold)] md:grid-cols-[14rem_1fr] md:p-10">
         <img
           src="/brand/ebook-stand.jpg"
-          alt="The 120 Prompt OS hardcover standing in gold studio light"
-          width={1152}
-          height={1728}
+          alt="BuzzCraft bee mascot presenting The 120 Prompt OS hardcover"
+          width={1122}
+          height={1402}
           loading="lazy"
           className="mx-auto max-h-56 w-auto object-contain md:max-h-72"
         />

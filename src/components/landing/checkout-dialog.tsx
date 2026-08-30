@@ -44,9 +44,9 @@ export function CheckoutDialog() {
         <img
           src="/brand/ebook-stand.jpg"
           alt=""
-          width={200}
-          height={300}
-          className="mx-auto max-h-28 w-auto object-contain"
+          width={224}
+          height={280}
+          className="mx-auto max-h-32 w-auto object-contain"
         />
         <DialogTitle>
           {isFree ? "Get the Prompt OS free" : "Get instant access"}
